@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "mijn eerste node server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemBuermans/node-eersteserver.git"
+  },
+  "keywords": [
+    "node",
+    "server"
+  ],
+  "author": "Sem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemBuermans/node-eersteserver/issues"
+  },
+  "homepage": "https://github.com/SemBuermans/node-eersteserver#readme"
+}
