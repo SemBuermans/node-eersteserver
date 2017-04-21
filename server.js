@@ -5,9 +5,9 @@ function onRequest(request, response){
 	response.writeHead(200,{'Content-Type': 'application/json'});
 	
 	var json = JSON.stringify({
-		mijntekst : 'Dit is JSON!',
-		label: 'nog meer tekst',
-		mijnarray: [ 'tekst', 'poepscheet', 2],
+		mijntekst : 'neger',
+		label: 'nog meer negers',
+		mijnarray: [ 'holstrong', 'poepscheet', 1488],
 		mijnobject: {
 			mijnlabel: 'mijntekst',
 			getal: 4
